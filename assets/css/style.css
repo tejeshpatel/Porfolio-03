@@ -2,7 +2,7 @@
     --mygray: #bdbdbd;
     --myyellow: #fce181;
     --mylightyellow: #fef9c7;
-    --myteal: #026670;
+    --myteal: #000000;
     --mylightblue: #9fedd7;
 }
 
@@ -142,8 +142,6 @@ main article {
     position: relative;
     max-height: 150px;
     max-width: 18%;
-    border: 5px solid var(--myteal);
-    border-radius: 8px;
     margin: 10px 10px;
     flex: 1;
 }
